@@ -1,7 +1,9 @@
 Simulated Marketplace Application
+
 This repository hosts the code for a fully simulated marketplace application designed to demonstrate full-stack web development skills including HTML, CSS, JavaScript, AJAX, PHP, and MySQL. The application features a robust user login system and the capability to handle item uploads, managing data storage on a local database.
 
 Features
+
 User Authentication: Utilizes AJAX for a smooth, asynchronous user login experience.
 Item Uploads: Allows users to upload items with details which are then stored in a local database.
 Interactive UI: Built with HTML, CSS, and JavaScript to create a responsive and intuitive user interface.
@@ -10,6 +12,7 @@ Installation
 To set up this project locally, follow these steps:
 
 Clone the repository:
+
 bash
 Copy code
 git clone https://github.com/yourusername/simulated-marketplace.git
